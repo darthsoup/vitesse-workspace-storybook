@@ -1,14 +1,14 @@
 {
-  "name": "@darthsoup/vws-workspace",
+  "name": "@darthsoup/vitesse-workspace",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "packageManager": "pnpm@7.1.7",
   "scripts": {
 
   },
   "dependencies": {},
   "devDependencies": {
-    "@darthsoup/vws-base": "workspace:*",
-    "@darthsoup/vws-storybook": "workspace:*"
+    "@darthsoup/vitesse-base": "workspace:*",
+    "@darthsoup/vitesse-storybook": "workspace:*"
   }
 }

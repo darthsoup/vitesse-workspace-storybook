@@ -1,4 +1,8 @@
-# Vitesse + PNPM workspace + Storybook
+# Vitesse (vue) + pnpm workspace + Storybook
+
+Test repository with pnpm workspaces.
+
+Storybook uses parts of https://github.com/jdk2pq/vite-storybook-pnpm-vue to make storybook runnable
 
 ## Install
 

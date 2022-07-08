@@ -2,13 +2,12 @@
   "name": "@darthsoup/vitesse-workspace",
   "private": true,
   "version": "1.0.0",
-  "packageManager": "pnpm@7.1.7",
-  "scripts": {
-
-  },
-  "dependencies": {},
+  "packageManager": "pnpm@7.5.0",
+  "scripts": {},
   "devDependencies": {
-    "@darthsoup/vitesse-base": "workspace:*",
-    "@darthsoup/vitesse-storybook": "workspace:*"
+    "@darthsoup/vitesse-base": "workspace:1.0.0",
+    "@darthsoup/vitesse-storybook": "workspace:1.0.0",
+    "typescript": "^4.7.4",
+    "vue-tsc": "^0.38.3"
   }
 }
